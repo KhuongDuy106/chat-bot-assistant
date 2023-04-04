@@ -1,4 +1,4 @@
-# Student_assistant_bot
+# chat-bot-assistant
 This sample bot is designed to make a student's life seamless on matters academics and resources. It uses Twilio as the messaging client, Google's Dialog flow for intent filtering, and runs on a Node.js server.
 
 
@@ -10,8 +10,8 @@ This sample bot is designed to make a student's life seamless on matters academi
 # Initial Set up and Installation
 ## Clone the repo & Install the required packages
 ```bash
-git clone https://github.com/Dev-Elie/Student_assistant_bot.git
-cd Student_assistant_bot
+git clone https://github.com/Dev-Elie/chat-bot-assistant.git
+cd chat-bot-assistant
 npm install
 ```
 
